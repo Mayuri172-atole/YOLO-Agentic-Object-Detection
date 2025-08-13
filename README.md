@@ -1,7 +1,7 @@
 # YOLO-Agentic-Object-Detection
  Advanced YOLO-based object detection, segmentation, and pose estimation with Agentic AI integration using AutoGen, enabling multimodal image analysis and conversational interaction.
 
-Got it — you want to prepare this **YOLO + Agentic YOLO pipeline** for GitHub with a proper repo name, description, and README.
+ you want to prepare this **YOLO + Agentic YOLO pipeline** for GitHub with a proper repo name, description, and README.
 Here’s the setup for your GitHub repo.
 
 ---
@@ -12,11 +12,6 @@ Here’s the setup for your GitHub repo.
 
 ---
 
-## **Short Description**
-
-Advanced YOLO-based object detection, segmentation, and pose estimation with Agentic AI integration using AutoGen, enabling multimodal image analysis and conversational interaction.
-
----
 
 # YOLO & Agentic Object Detection
 
